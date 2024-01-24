@@ -1,0 +1,1 @@
+check for prohibited library functions, malloc and related functions are not allowed

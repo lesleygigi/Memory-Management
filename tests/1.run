@@ -1,0 +1,1 @@
+objdump --dynamic-syms libmem.so | grep -E "malloc|calloc|realloc|reallocarray|posix_memalign|aligned_alloc|memalign|valloc|pvalloc"
